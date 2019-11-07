@@ -12,7 +12,7 @@ let high_value2 = 0
 let low_value2 = 0
 let High_Value1 = 0
 let low_value1 = 0
-pins.digitalWritePin(DigitalPin.P12, 0)
+pins.digitalWritePin(DigitalPin.P12, 1)
 basic.showArrow(ArrowNames.South)
 basic.pause(4000)
 low_value1 += pins.analogReadPin(AnalogPin.P0)
@@ -51,9 +51,7 @@ var4 += va_3 + high_value3
 avg_high += va_3 / 3
 basic.showString("Calibration Complete")
 basic.forever(function () {
-    pins.digitalWritePin(DigitalPin.P12, 1)
     Analog_input = pins.analogReadPin(AnalogPin.P0)
-    pins.digitalWritePin(DigitalPin.P12, 0)
     basic.pause(2000)
     index = pins.map(
     Analog_input,
@@ -65,3 +63,4 @@ basic.forever(function () {
     led.plot(0, index)
     basic.showNumber(Analog_input)
 })
+
