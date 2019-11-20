@@ -4,6 +4,8 @@
   
   i) The [original.js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-7-week-12-leeanswoo/blob/master/original.js) allows us to use the LED's once they are connected to the correct pins, using the GPIO pins and ground. The video of the functioning program can be found [Here](https://imgur.com/a/exN3I0y) 
   
+  ii) The [enable-matrix,js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-7-week-12-leeanswoo/blob/master/enable-matrix.js) shows the LED function in the microbit was enabled and the video can be found [here](https://imgur.com/a/exN3I0y)
+  
   
 
 ## 2. Soil Sensor 
