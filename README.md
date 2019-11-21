@@ -27,7 +27,7 @@
   
   iv) This program will use the the digital input from the Soil sensor to read function to gather data from the sensor to give us a range to use for our index. 
   
-  File: [Manual-calibration.js]((https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-7-week-12-leeanswoo/blob/master/manual-calibration.js)
+  File: [Manual-calibration.js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-7-week-12-leeanswoo/blob/master/manual-calibration.js)
   Demo: [Here.](https://imgur.com/a/P8K4EVr)
 
 vi) This program will get the values of each dry and wet reading from the soil sensor and get the average of both and enter them as the minimum and maximum for the new map and index for the microbit. 
