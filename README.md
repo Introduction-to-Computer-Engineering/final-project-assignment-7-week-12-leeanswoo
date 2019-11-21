@@ -6,6 +6,8 @@
   
   ii) The [enable-matrix,js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-7-week-12-leeanswoo/blob/master/enable-matrix.js) shows the LED function in the microbit was enabled and the video can be found [here](https://imgur.com/a/exN3I0y)
   
+  iii) This program shows the use of the 5x5 LED array on the microbit as well as using the external LED's. The screensaver will be activated one the "A" button is pressed and will continue to repeat. 
+  
   
 
 ## 2. Soil Sensor 
